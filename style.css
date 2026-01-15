@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background:#f2f2f2;
+  margin:0;
+}
+
+#login-page {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+.login-container {
+  background:white;
+  padding:30px;
+  border-radius:8px;
+}
+
+input, button {
+  display:block;
+  width:100%;
+  margin:10px 0;
+  padding:10px;
+}
+
+#dashboard header {
+  background:#333;
+  color:white;
+  padding:15px;
+}
+
+#fileGrid div {
+  background:white;
+  padding:10px;
+  margin:10px;
+  border-radius:6px;
+}
